@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.App {
+  text-align: center;
+}
+
+svg {
+  border: 1px solid black;
+}
